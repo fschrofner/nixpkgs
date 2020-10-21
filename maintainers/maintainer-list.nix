@@ -9834,4 +9834,10 @@
     github = "hloeffler";
     githubId = 6627191;
   };
+  schrofi = {
+    name = "Florian Schrofner";
+    email = "florian@schro.fi";
+    github = "fschrofner";
+    githubId = 6865856;
+  };
 }

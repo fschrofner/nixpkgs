@@ -23128,6 +23128,8 @@ in
 
   remotebox = callPackage ../applications/virtualization/remotebox { };
 
+  rescrobbled = callPackage ../applications/audio/rescrobbled { };
+
   retroshare = libsForQt514.callPackage ../applications/networking/p2p/retroshare { };
   retroshare06 = retroshare;
 
